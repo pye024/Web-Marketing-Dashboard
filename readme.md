@@ -1,12 +1,13 @@
-# 🌐 Web Marketing Dashboard  
+#  Web Marketing Dashboard  
 
-This project is a **Tableau dashboard** that analyzes website performance metrics, focusing on **traffic, engagement, and user behavior**. The dashboard is designed to provide clear insights into how visitors interact with a website, where they come from, and which devices they use.  
+This project is a **Tableau dashboard** that analyzes website performance metrics, focusing on **traffic, engagement, and user behavior**. The dashboard is designed to provide clear insights into how visitors interact with a website, where they come from, and what devices they use.  
 
-🔗 **Live Demo:** [View Dashboard on Tableau Public](https://public.tableau.com/your-demo-link-here)  
-
+ **Live Demo:** [View Dashboard on Tableau Public](https://public.tableau.com/shared/8MN5SD5KK?:display_count=n&:origin=viz_share_link)  
+---
+![Web Marketing Dashboard](images/WEB_MARKETING.png)
 ---
 
-## 📊 Key Insights  
+##  Key Insights  
 
 - **Traffic Overview**  
   - 418,062 total website visits  
@@ -33,10 +34,3 @@ This project is a **Tableau dashboard** that analyzes website performance metric
 
 ---
 
-##  Tools & Technologies  
-
-- **Tableau** → Dashboard design and visualization  
-- **Excel / CSV** → Data storage and preparation  
-- **Python (optional)** → Preprocessing of raw data before visualization  
-
----
